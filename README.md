@@ -1,5 +1,5 @@
 # Ex03 Places Around Me
-## Date: 30.11.2025
+## Date: 1.12.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -29,6 +29,8 @@ Execute the programs and publish them.
 
 ## CODE
 ```
+1) map.html
+
 <html>
     <head>
         <title>Tirupati smart city map</title>
@@ -46,16 +48,108 @@ Execute the programs and publish them.
     <area target="" alt="Sri Venkateshwara zoo park" title="Sri Venkateshwara zoo park" href="zoo.html" coords="850,421,1054,498" shape="rect">
 </map>
 
-
-
-        
     </body>
+</html>
+
+
+2) dam.html
+
+<html>
+    <head>
+        <title>About this Dam</title>
+    </head>
+    <body align="center" bgcolor="lightblue"></body>
+    <h1 style="color:blue">Tirupati Smart city</h1>
+    <hr>
+    <h2><u>Kalyani Water dam:</u></h2>
+    <p>The Kalyani Dam, built in 1977 across the Swarnamukhi River in Tirupati, Andhra Pradesh, is a gravity dam that serves as one of the main water sources for Tirupati and its surrounding areas. With a storage capacity of 25 million cubic meters and a catchment area of 48.56 km/sq, it is situated between the hills of the Seshachalam range. When full, the dam can meet the city's water needs for up to two years, and its full reservoir level stands at 274.31 meters above mean sea level.</p>
+</html>
+
+
+3) fort.html
+
+<html>
+    <head>
+        <title>About this Fort</title>
+    </head>
+    <body align="center" bgcolor="orange"></body>
+    <h1 style="color:brown">Tirupati Smart city</h1>
+    <hr>
+    <h2><u>Chandragiri Fort:</u></h2>
+    <p>Chandragiri Fort, located in the Chandragiri suburb of Tirupati, is a historic fort built around 1000 AD during the reign of Immadi Narasimha Yadavaraya and later closely associated with the Vijayanagara Empire. Taken over by the Vijayanagara rulers in 1367, it rose to prominence in the 1560s and is linked to Emperor Krishnadevaraya, who stayed there before his coronation. The fort later became the empire’s fourth capital before being annexed by the Golconda Sultanate in 1646 and later passing to the Kingdom of Mysore. Now partly in ruins, it houses the Raja Mahal—an archaeological museum showcasing Vijayanagara architecture—along with the Rani Mahal, eight temples, and other historical structures.</p>
+</html>
+
+
+
+4) park.html
+
+<html>
+    <head>
+        <title>About this Park</title>
+    </head>
+    <body align="center" bgcolor="cyan"></body>
+    <h1 style="color:gold">Tirupati Smart city</h1>
+    <hr>
+    <h2><u>Blueland Waterpark:</u></h2>
+    <p>The Blue Land Water Park in Tirupati is a large, modern water-themed amusement park designed to offer a mix of relaxation and adventure for visitors of all ages. Built across a spacious landscaped area, the park features a variety of attractions including high-speed water slides, a giant wave pool, a lazy river winding through tropical settings, and dedicated kids' zones with safe, interactive splash elements. Known for its vibrant blue-themed architecture and well-maintained facilities, Blue Land has become a popular leisure destination for both locals and tourists. The park also includes dining areas, shaded rest spots, and event spaces, making it suitable for family outings, school trips, and group gatherings. With trained lifeguards, strict safety measures, and regular maintenance, it provides a refreshing, enjoyable, and secure environment for visitors throughout the year.
+</p>
+</html>
+
+
+5) temple.html
+
+<html>
+    <head>
+        <title>About this temple</title>
+    </head>
+    <body align="center" bgcolor="gold"></body>
+    <h1 style="color:red">Tirupati Smart city</h1>
+    <hr>
+    <h2><u>Sri Venkateswara Swamy temple:</u></h2>
+    <p>The Venkateswara Temple of Tirumala, also called the Sri Venkateswara Swami Temple, is a major Hindu shrine located in the Tirumala hills of Tirupati in Andhra Pradesh, India. Dedicated to Lord Venkateswara, a form of Vishnu believed to have appeared on earth to protect humanity in the Kali Yuga, the temple is often referred to as Kaliyuga Vaikuntha, and the deity as Kaliyuga Prathyaksha Daivam. It is popularly known by several names, including Tirumala Temple, Tirupati Temple, and Tirupati Balaji Temple, with Venkateswara himself also called Balaji, Govinda, and Srinivasa. The temple is administered by the Tirumala Tirupati Devasthanams (TTD), whose leadership is appointed by the Andhra Pradesh government.
+    </p>
+</html>
+
+
+6) zoo.html
+
+<html>
+    <head>
+        <title>About this Zoo</title>
+    </head>
+    <body align="center" bgcolor="brown"></body>
+    <h1 style="color:antiquewhite">Tirupati Smart city</h1>
+    <hr>
+    <h2><u>Sri Venkateshwara Zoological park:</u></h2>
+    <p>Sri Venkateshwara Zoological Park in Tirupati is one of India's largest and most unique zoos, known for its lush natural setting at the foot of the Seshachalam hills. Spread across a vast forested area, the park is home to a wide variety of wildlife, including tigers, leopards, bears, deer, and many rare bird species. One of its biggest highlights is the large Simhachalam lion safari, where visitors can safely observe lions in a wide, open natural habitat. The zoo is also known for its conservation breeding programs, especially for endangered species native to the Eastern Ghats. With themed zones, spacious enclosures designed to resemble natural ecosystems, and educational displays about wildlife and forests, the park offers both entertainment and learning. Its peaceful environment, scenic viewpoints, and focus on animal welfare make it a popular destination for nature lovers, students, and families.
+</p>
 </html>
 ```
 
 
 ## OUTPUT
-![alt text](<EXP 04 MAP.png>)
+
+map.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/26f83d99-03b5-4cd4-a065-03ba8308dce9" />
+
+dam.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/66ed0ff7-9789-4731-95d2-3977f2413e3f" />
+
+fort.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bf7b434b-41d1-45e3-8a69-aaf4a912eeac" />
+
+park.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/798d48bc-7672-4d0e-bfd6-254e8f7ebafa" />
+
+temple.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2fd08aee-7013-47cb-b42c-9ee4333d6991" />
+
+zoo.html
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b7137155-17ff-49f2-b29c-b98cf2a920dd" />
+
+
+
+
 
 
 
