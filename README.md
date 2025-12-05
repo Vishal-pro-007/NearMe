@@ -1,9 +1,5 @@
 # Ex03 Places Around Me
-<<<<<<< HEAD
 ## Date: 5.12.2025
-=======
-## Date: 
->>>>>>> b303cbfef9d9ffac0ea16684189f43438c867c59
 
 ## AIM
 To develop a website to display details about the places around my house.
